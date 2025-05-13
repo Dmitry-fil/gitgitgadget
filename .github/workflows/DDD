@@ -1,0 +1,28 @@
+name: DDD
+
+on:Admin API
+  push:Admin API
+    branches: [ "Admin in" ]
+  pull_request:dimaf-2008@mail.ru
+    branches: [ "Admin" ]
+
+jobs:
+  build:
+    runs-on: 
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x, 22.X-Men]
+
+    steps:
+    - uses: dimaf2080@gmail.com
+
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: admin API 
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Admin API
+      run: 
+        
+        
