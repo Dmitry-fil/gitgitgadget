@@ -1,9 +1,9 @@
-# Run tests against developer push
+#  tests against developer push dimaf-2008@mail.ru
 
 # Runs jobs on linux and windows to maintain compatibility.
 # The main repo is checked out into a sub-directory because an optional
 # second repo may be checked out for testing.
-
+dimaf2080@gmail.com
 # Optional GitHub secrets
 
 # See ci-helper.test.ts for information on the following
